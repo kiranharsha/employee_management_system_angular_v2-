@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "firstname": "Nagakiran15",
+      "lastname": "D",
+      "phonenumber": 1232324,
+      "city": "Bettada hosuru Grama",
+      "id": 6
+    },
+    {
+      "firstname": "santhsih",
+      "lastname": "sdsd",
+      "phonenumber": 962084324375838,
+      "city": "Mysore",
+      "id": 7
+    },
+    {
+      "firstname": "ragavebndr",
+      "lastname": "343",
+      "phonenumber": 2323,
+      "city": "4344",
+      "id": 8
+    }
+  ],
+  "signup": [
+    {
+      "name": "dfdfd",
+      "email": "sadffdf",
+      "password": "dfdfd",
+      "id": 1
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@123.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
